@@ -13,4 +13,4 @@
  http://localhost:8080/customers/{customerId}/rewards
 ```
 
-By Surya Teja Muthyala`https://www.linkedin.com/in/suryatejamuthyala/`
+By `https://www.linkedin.com/in/suryatejamuthyala/`
