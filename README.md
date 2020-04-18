@@ -7,7 +7,7 @@
 - Please check doc file provided in the project
 - Install H2 db locally and run it . change the db settings in application.properties file.
 - Do run the scrip.sql on H2 in memory DB to prepare the test data.
-- Please refer Calculator.docx
+- Please refer Calculator.docx - https://github.com/suryatejamuthyala/CharterTask/blob/master/calculator.pdf
 
 ```
  http://localhost:8080/customers/{customerId}/rewards
