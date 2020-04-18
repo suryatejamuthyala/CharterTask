@@ -1,5 +1,5 @@
 # Points Calculator based on customer transaction
-#####The rest API to get customer rewards based on customer Id
+#The rest API to get customer rewards based on customer Id
 
 - The package name is structured as com.retailer.rewards
 - Exception is thrown if customer does not exists.
